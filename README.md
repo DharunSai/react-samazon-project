@@ -3,18 +3,27 @@ it is a clone of amazon webapp
 
 # how to run
 To run the backend: 
+```
+npm i  
+```
 
- ```npm i  ```
-
-``` node server.js ```
+``` 
+node server.js
+ ```
 
 To run the frontend:
 
-``` cd frontend ```
+```
+ cd frontend 
+ ```
 
-``` npm i ```
+``` 
+npm i
+ ```
 
-``` npm start ```
+``` 
+npm start 
+```
 
 
 # Features
@@ -29,7 +38,6 @@ Users can create reviews
 
 Once the user selects the product orders are also created
 ```
-<<<<<<< HEAD
 
 # SCREENSHOTS
 
